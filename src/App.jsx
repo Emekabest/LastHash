@@ -8,7 +8,7 @@ import PricingPage from './Pages/PricingPage/PricingPage'
 import DashboardPage from './Pages/DashboardPage/DashboardPage'
 import Beneficiaries from './Pages/BeneficiaryPage/Beneficiary'
 import './App.css'  
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
