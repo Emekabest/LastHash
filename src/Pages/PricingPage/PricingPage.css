@@ -1,0 +1,47 @@
+
+
+.main-container {
+
+    /* height: calc(100vh - 10px); */
+    background-color: #000;
+    padding: 50px;
+}
+
+.main5thContainer-content-left, .main5thContainer-content-center, .main5thContainer-content-right{
+position: relative;
+
+}
+
+.pricing-select-btn1{
+
+    padding: 10px 40px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    bottom: 0;
+    left: 25%;
+    position: absolute;
+
+}
+
+.pricing-select-btn2{
+    padding: 10px 40px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    bottom: 0;
+    left: 25%;
+    position: absolute;
+
+}
+
+.pricing-select-btn3{
+    padding: 10px 40px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    bottom: 0;
+    left: 25%;
+    position: absolute;
+
+}
